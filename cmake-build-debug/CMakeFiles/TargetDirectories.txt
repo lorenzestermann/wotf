@@ -1,0 +1,3 @@
+C:/Users/i0A124242/Desktop/CLion/wotf/cmake-build-debug/CMakeFiles/wotf.dir
+C:/Users/i0A124242/Desktop/CLion/wotf/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/i0A124242/Desktop/CLion/wotf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
